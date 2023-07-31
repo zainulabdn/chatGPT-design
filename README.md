@@ -1,4 +1,4 @@
-# dummy
+# ChatGPT Material 3 Design
 
 A new Flutter project.
 
