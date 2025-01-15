@@ -1,3 +1,3 @@
-# ChatGPT Open Ai Design
+# ChatGPT Open Ai
 
 <img src="https://github.com/zainulabdn/chatGPT-design/blob/main/760-23479.PNG" height="500">
