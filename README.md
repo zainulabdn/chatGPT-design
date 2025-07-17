@@ -24,6 +24,9 @@ Design: Custom UI elements (see banner)
 
 📷 Preview
 <img src="https://github.com/zainulabdn/chatGPT-design/blob/main/760-23479.PNG" alt="ChatGPT UI Preview" width="80%">    
+
+
+
 📥 Installation
 bash
 Copy
