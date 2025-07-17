@@ -1,5 +1,4 @@
-ChatGPT Open AI
-<img src="https://github.com/zainulabdn/chatGPT-design/blob/main/760-23479.PNG" alt="ChatGPT Open AI Banner" width="100%">
+
 🚀 About This Project
 ChatGPT Open AI is a project designed to explore and integrate the power of OpenAI's ChatGPT for various applications, including conversational AI, content generation, and automation tasks.
 
