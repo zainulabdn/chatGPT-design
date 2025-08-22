@@ -1,6 +1,7 @@
 
 🚀 About This Project:
 ------------------------
+------------------------
 
 ChatGPT Open AI is a project designed to explore and integrate the power of OpenAI's ChatGPT for various applications, including conversational AI, content generation, and automation tasks.
 
