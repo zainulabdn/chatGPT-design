@@ -1,5 +1,6 @@
 # 🚀 ChatGPT OpenAI – AI Chatbot Web App (GPT API Integration)
 
+
 ## 🌟 About This Project
 
 **ChatGPT OpenAI** is a modern **AI-powered chatbot web application** built using the **OpenAI GPT API**. This project demonstrates how to integrate **conversational AI**, **AI text generation**, and **automation workflows** into a clean and responsive web interface.
